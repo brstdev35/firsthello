@@ -1,0 +1,7 @@
+{
+    "name": "vendor/hello",
+    "description": "yii2",
+    "type": "yii2-extension",
+    "minimum-stability": "stable",
+    "require": {}
+}
